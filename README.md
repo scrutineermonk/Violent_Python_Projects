@@ -24,6 +24,6 @@ The repository contains python codes written while studying the Violent Python B
  The script sniffs the network and gives IP addresses and their respective TTL values as output.
  
  
- # checkDecoyScan.py
+ # Detect_DecoyScan.py
  Scripts sniff the network for Decoy scans attempt. It ignores the private IP range but can be changed. Decoy scan is detected based on   
  TTL value of the packets received from the IP address.
