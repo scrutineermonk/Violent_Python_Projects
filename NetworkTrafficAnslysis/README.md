@@ -1,3 +1,6 @@
+# Network Traffic Analysis
+
+
 # KML_File_Output.py
  Gives KML file as an output. Scenario: While investigating an infected machine, we came across with IP to which infected machine connected. We specified the IP addresses and got KML as output. Once KML is uploaded to google earth, we were able to see the places where the connection was made, helping in the better understanding of attack locations.
  
