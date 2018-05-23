@@ -25,3 +25,7 @@
  # Detect_DecoyScan.py
  Scripts sniff the network for Decoy scans attempt. It ignores the private IP range but can be changed. Decoy scan is detected based on   
  TTL value of the packets received from the IP address.
+ 
+ 
+  # DNS_Flux_Detection.py
+  Script takes pcap cpature as input and detects of there is DNS Flux in going in the network. 
